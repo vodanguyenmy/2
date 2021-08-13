@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.7.7
 ADD requirements.txt /requirements.txt
 ADD main.py /main.py
 ADD okteto-stack.yaml /okteto-stack.yaml
