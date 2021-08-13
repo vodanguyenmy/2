@@ -1,0 +1,8 @@
+pip==21.2.4
+wheel==0.36.2
+numpy==1.19.5
+setuptools==57.2.0
+tensorflow==2.6.0
+opencv-python==4.5.3.56
+fastapi==0.68.0
+pydantic==1.8.2
