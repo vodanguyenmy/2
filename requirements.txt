@@ -1,7 +1,6 @@
 pip==20.2.3
 wheel==0.36.2
-numpy==1.18
-9.5
+numpy==1.19.5
 setuptools==57.2.0
 tensorflow==2.6.0
 opencv-python==4.5.3.56
