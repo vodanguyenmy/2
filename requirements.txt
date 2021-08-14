@@ -1,4 +1,4 @@
-pip==21.2.4
+pip==20.2.3
 wheel==0.36.2
 numpy==1.19.5
 setuptools==57.2.0
